@@ -196,10 +196,6 @@ public class Tp_FeistelCipher {
             System.out.print(1 + "|");
         }
         System.out.println("");
-        
-        System.out.println("====================================");
-        System.out.println("Réaliser par KUMALA SADISA BEN ");
-        System.out.println("=====================================");
     }
     
 }
